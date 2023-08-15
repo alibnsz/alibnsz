@@ -2,7 +2,7 @@
 <h3 align="center">I'm a CSE Student from Turkey</h3>
 
 <p align="center">
-  <img src="https://github.com/alibnsz/alibnsz/assets/129532312/bd52ee39-3f5a-4027-9c87-7cee99d1efd2" alt="alibnsz" />
+  <img src="https://github.com/alibnsz/alibnsz/assets/142307225/918915be-e621-4831-8496-0d842e6cf666"/>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alibnsz&label=Profile%20views&color=0e75b6&style=flat" alt="alibnsz" /> </p>
