@@ -5,10 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=alibnsz&label=Profile%20views&color=0e75b6&style=flat" alt="alibnsz" /> 
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ee06f1e7-da69-4785-8f5c-d9aaa3958314" alt="Gif" />
-</p>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/alibnsz" target="blank">
