@@ -24,9 +24,3 @@
   <a href="https://firebase.google.com" target="_blank" rel="noopener noreferrer"><img src="https://github.com/rmgoktas/rmgoktas/assets/77693201/152bfe66-16f9-4005-b664-0894d0a347d6" alt="firebase" width="40" height="40" /></a>
   <a href="https://www.oracle.com/database/technologies/appdev/plsql.html/" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/373980/plsql.svg" alt="oracle-plsql" width="40" height="40" /></a>
 </p>
-
-
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alibnsz&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="alibnsz" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=alibnsz&show_icons=true&theme=tokyonight&locale=en" alt="alibnsz" />
-</p>
