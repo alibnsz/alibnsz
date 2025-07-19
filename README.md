@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehmet Ali BUNSUZ</h1>
-<h3 align="center">Software Engineer Candidate</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alibnsz&label=Profile%20views&color=0e75b6&style=flat" alt="alibnsz" />
