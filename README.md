@@ -13,35 +13,17 @@
 </p>
 
 <h3 align="center">Tech Stack</h3>
-<p align="center" style="margin: 0; padding: 0;">
-  <!-- Swift -->
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40" />
-  </a>
 
-  <!-- Flutter -->
-  <a href="https://flutter.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" />
-  </a>
-
-  <!-- Go -->
-  <a href="https://go.dev/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
-  </a>
-
-  <!-- AWS (wordmark) -->
-  <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="80" height="40"/>
-  </a>
-
- <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-
-  <!-- Firebase -->
-  <a href="https://firebase.google.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/rmgoktas/rmgoktas/assets/77693201/152bfe66-16f9-4005-b664-0894d0a347d6" alt="Firebase" width="40" height="40" />
-  </a>
-  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="50" alt="swift" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50" alt="go" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="aws" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="firebase" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql" />
 </p>
+
+
