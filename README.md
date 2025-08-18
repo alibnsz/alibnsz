@@ -1,27 +1,31 @@
-<h1>Hi 👋, I'm Mehmet Ali</h1>
-<h3>Software Engineer</h3>
+<h1 align="left">Hi, I'm Mehmet Ali</h1>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=alibnsz&label=Profile%20views&color=0e75b6&style=flat" alt="alibnsz" />
-</p>
+###
 
-<h3>Connect with me</h3>
-<p>
-  <a href="https://linkedin.com/in/alibnsz" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
+<h3 align="left">Software Engineer</h3>
 
-<h3>Tech Stack</h3>
+###
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="50" alt="swift" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50" alt="go" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="aws" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="firebase" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql" />
-</p>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"height="40" alt="linkedin logo"  />
+</div>
+
+###
+
+<h2 align="left">Tools I Use</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+</div>
+
+###
