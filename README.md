@@ -7,8 +7,19 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"height="40" alt="linkedin logo"  />
+  <!-- LinkedIn -->
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+       height="40" alt="linkedin logo" />
+  
+  <img width="10" />
+
+  <!-- Medium -->
+  <a href="https://medium.com/@alibnsz">
+    <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*psYl0y9DUzZWtHzFJLIvTw.png"
+         height="40" alt="medium logo" />
+  </a>
 </div>
+
 
 ###
 
