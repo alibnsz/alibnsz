@@ -29,7 +29,7 @@
 
 ###
 
-<h3 align="left">Tech Stack</h3>
+<h3 align="left">Tech Stack:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="36" alt="Swift" />
